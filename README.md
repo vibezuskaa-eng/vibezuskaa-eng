@@ -1,3 +1,3 @@
-Meu nome é Vinicius Besuska;
-💻 Desenvolvedor em formação;
+My name is Vinicius R.
+💻 Software Developer;
 https://github.com/vibezuskaa-eng

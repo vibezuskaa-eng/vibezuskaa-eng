@@ -24,11 +24,16 @@
 - **PDF to Excel**: converts sales PDFs into organized spreadsheets
 - **Tetris**: classic game built with Python and pygame
 
-##  GitHub Stats
+  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibezuskaa-eng&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibezuskaa-eng&layout=compact&theme=tokyonight" height="170" />
+  <a href="https://github.com/vibezuskaa-eng">
+    <img src="https://github-readme-stats.vercel.app/api?username=vibezuskaa-eng&show_icons=true&theme=tokyonight" height="170" />
+  </a>
+  <a href="https://github.com/vibezuskaa-eng">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibezuskaa-eng&layout=compact&theme=tokyonight" height="170" />
+  </a>
 </p>
 
 ##  Contact

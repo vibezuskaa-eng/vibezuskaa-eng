@@ -1,10 +1,13 @@
-My name is Vinicius R.
-💻 Software Developer;
-https://github.com/vibezuskaa-eng
-<h1 align="center">Hi, I'm vibezuskaa 👋</h1>
+<h1 align="center">Hi, I'm Vinicius R. 👋</h1>
 
 <p align="center">
-  Front-end developer learning Python and building automations 🚀
+  💻 Software Developer · Learning Python and building automations 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/vibezuskaa-eng">
+    <img src="https://img.shields.io/badge/GitHub-vibezuskaa--eng-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---

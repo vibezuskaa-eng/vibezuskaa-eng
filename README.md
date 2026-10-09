@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vibezuskaa-eng&show_icons=true&theme=tokyonight" height="170" />
   </a>
   <a href="https://github.com/vibezuskaa-eng">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibezuskaa-eng&layout=compact&theme=tokyonight" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibezuskaa-eng&layout=compact&theme=tokyonight" height="190" />
   </a>
 </p>
 

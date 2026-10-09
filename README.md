@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Vinicius R. </h1>
+# Hi, I'm Vinicius R.
 
 <p align="center">
-   Software Developer · Learning Python and building automations 
+  Software Developer · Learning Python and building automations
 </p>
 
 <p align="center">
@@ -18,14 +18,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 </p>
 
-##  Projects
+## Projects
 
-- **Repository Creator**: Python tool that picks files and creates a GitHub repo from the terminal
-- **PDF to Excel**: converts sales PDFs into organized spreadsheets
-- **Tetris**: classic game built with Python and pygame
+* **Repository Creator:** Python tool that picks files and creates a GitHub repository from the terminal.
+* **PDF to Excel:** Converts sales PDFs into organized spreadsheets.
+* **Tetris:** Classic game built with Python and Pygame.
 
-  
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/vibezuskaa-eng">
@@ -36,9 +35,21 @@
   </a>
 </p>
 
-##  Contact
+## Contact
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USER">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## Change History
+
+| Date       | Changes                                                                          |
+| ---------- | -------------------------------------------------------------------------------- |
+| 2026-10-09 | Updated README profile, skills, projects, GitHub statistics and contact section. |

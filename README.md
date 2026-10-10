@@ -4,18 +4,6 @@
   Software Developer · Python · Automation · Web Development
 </p>
 
-<p align="center">
-  <a href="https://github.com/vibezuskaa-eng">
-    <img src="https://img.shields.io/badge/GitHub-vibezuskaa--eng-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinicius-rodrigues-de-m-028b14343/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://vibezuskaa-eng.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-078BD1?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About Me

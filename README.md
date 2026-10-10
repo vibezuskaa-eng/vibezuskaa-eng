@@ -39,11 +39,14 @@ Explore my public repositories and programming projects.
 ## Contact
 
 <p align="center">
-  <a href="mailto:vibezuskaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:vibezuskaa@gmail.com?subject=Hello%20Vinicius">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-rodrigues-de-m-028b14343/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01bcef5b4d12fccf80">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 

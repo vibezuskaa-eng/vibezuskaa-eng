@@ -39,7 +39,7 @@ Explore my public repositories and programming projects.
 ## Contact
 
 <p align="center">
-  <a href="mailto:vibezuskaa@gmail.com?subject=Hello%20Vinicius">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vibezuskaa@gmail.com&su=Hello%20Vinicius">
     <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-rodrigues-de-m-028b14343/">

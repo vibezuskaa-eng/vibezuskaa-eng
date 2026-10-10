@@ -46,35 +46,6 @@ Explore my public repositories and programming projects.
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibezuskaa-eng&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibezuskaa-eng&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/vibezuskaa-eng">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibezuskaa-eng&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vibezuskaa-eng">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibezuskaa-eng&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vibezuskaa-eng">
-    <img src="https://komarev.com/ghpvc/?username=vibezuskaa-eng&style=flat-square&color=078bd1&label=Profile+Views" />
-  </a>
-</p>
-
----
-
 ## Contact
 
 <p align="center">

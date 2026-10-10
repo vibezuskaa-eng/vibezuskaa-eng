@@ -26,7 +26,11 @@
 
 ## Skills
 
-HTML · CSS · JavaScript · Python · Git · GitHub
+<p align="center">
+  <a href="https://github.com/vibezuskaa-eng?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+  </a>
+</p>
 
 ## Featured Projects
 

@@ -26,13 +26,11 @@
 
 ## Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
-</p>
+HTML · CSS · JavaScript · Python · Git · GitHub
 
 ## Featured Projects
 
-### [Pipeline de Conteúdo em Vídeo](https://github.com/vibezuskaa-eng/pipeline-videos-showcase)
+### [Video Content Pipeline](https://github.com/vibezuskaa-eng/pipeline-videos-showcase)
 
 Architecture showcase for a video automation pipeline, covering processing stages, scheduling, publishing and verification. The public repository contains a demonstration with simulated data; the actual system is private.
 
